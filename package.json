@@ -2,7 +2,7 @@
   "name": "react-player",
   "version": "0.7.0",
   "description": "A react component for playing a variety of URLs, including file paths, YouTube, SoundCloud and Vimeo",
-  "main": "lib/ReactPlayer.js",
+  "main": "dist/ReactPlayer.js",
   "scripts": {
     "clean": "rimraf lib demo",
     "build:webpack": "NODE_ENV=production webpack --config webpack.config.prod.js",
